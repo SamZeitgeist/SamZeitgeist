@@ -32,4 +32,4 @@ md
 ## 🚀 Проекты
 | Проект | Стек | Ссылка |
 |---|---|---|
-| Todo App | React, TS | ... |
+| Mini Pin | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | file:///C:/Users/Admin/Downloads/%D1%81%D0%B0%D0%B9%D1%82%D0%B8%D0%BA.html |
