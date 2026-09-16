@@ -34,3 +34,4 @@ md
 |---|---|---|
 | Mini Pin | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | (https://github.com/SamZeitgeist/mini-pin/settings/pages) |
 
+![snake](https://raw.githubuesrcontent.com/USERNAME/USERNAME/output/github-snake.svg) 
