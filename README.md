@@ -1,7 +1,7 @@
 md
 
 
-# Привет, я Вика 👋
+# Привет, я Kr3tyn 👋
 ### Веб-разработчик
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer+%2F+Студент+2+курса;Frontend%3A+HTML%2C+CSS%2C+JS%2C+React;Backend%3A+Node.js%2C+Python;Ищу+стажировку+или+junior-позицию)
