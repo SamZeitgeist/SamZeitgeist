@@ -46,7 +46,8 @@
 ## Talk to me
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=samzeitgeist&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164650463%3Fu%3D2bbf26d92ed005e4c60218d5bd71d6baad0c02f5%26v%3D4" alt="samzeitgeist social visual" />
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/348/non_2x/telegram-logo-icon-free-png.png
+    username=@Kr3tynhz&theme=satan&avatar=https://t.me/Kr3tynhz" alt="Kr3tynhz social visual" />
 </p>
 
 <a href="https://github.com/samzeitgeist">GitHub</a>
