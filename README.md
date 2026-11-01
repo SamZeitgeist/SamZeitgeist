@@ -28,10 +28,3 @@ md
 ![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
 
-
-## 🚀 Проекты
-| Проект | Стек | Ссылка |
-|---|---|---|
-| Mini Pin | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | https://github.com/SamZeitgeist/mini-pin |
-
-![snake](https://raw.githubuesrcontent.com/USERNAME/USERNAME/output/github-snake.svg) 
