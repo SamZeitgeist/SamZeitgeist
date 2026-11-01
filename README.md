@@ -42,12 +42,12 @@ Building useful things and learning in public.
   <img src="https://www.gitskins.com/api/section/heatmap?username=samzeitgeist&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164650463%3Fu%3D2bbf26d92ed005e4c60218d5bd71d6baad0c02f5%26v%3D4" alt="samzeitgeist heatmap visual" />
 </p>
 
-## Open a channel
+## Talk to me
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=samzeitgeist&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164650463%3Fu%3D2bbf26d92ed005e4c60218d5bd71d6baad0c02f5%26v%3D4" alt="samzeitgeist social visual" />
+  <a href="https://t.me/Kr3tynhz">
+    <img src="https://img.shields.io/badge/Telegram-@Kr3tynhz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @Kr3tynhz" />
+  </a>
 </p>
 
-<a href="https://github.com/samzeitgeist">GitHub</a>
 
-<p align="center"><sub>Kr3tyn · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
